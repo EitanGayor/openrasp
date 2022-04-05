@@ -22,7 +22,7 @@
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.11",
     "lodash.defaultsdeep": "^4.6.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "node-sass": "^4.10.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.17",
